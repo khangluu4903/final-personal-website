@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-To view all of my projects, please visit my [github page](https://github.com/khangluu4903){.uri}!
-
 **Amazon Sales Data Statistical Modeling Competition**
 
 -   Developed and optimized ML regression models to predict total sales from a dataset with 34 variables and 5894 rows.

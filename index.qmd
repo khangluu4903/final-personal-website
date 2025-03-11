@@ -1,13 +1,28 @@
 ---
-title: "Khang Luu's Personal Website"
+title: "Khang Luu"
+about:
+  template: jolla
+  image: profile pic.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/khangluu4903
+    - text: Email
+      url: "mailto:khangluu4903@g.ucla.edu"
 ---
 
-![](profile%20pic.jpeg)
+Khang Luu is currently a Tax Intern at Eide Bailly and a senior at UCLA, majoring in Statistics and Data Science. Download [My Resume](/resume.pdf)!
 
-Hello! Welcome to my portfolio website. My name is Khang!
+## Education
 
--   🔭 I’m currently a senior at UCLA majoring in Statistics and Data Science.
--   🌱 I’m currently learning about experimental design and analysis, theory of regression analysis, optimization, supervised machine learning, and managerial accounting.
--   💻 Tech Stack: Python, R, SQL, C++
--   📫 You can reach me through email (khangluu4903\@ucla.edu)!
--   View my [Resume](https://github.com/khangluu4903/stats-140xp-website/blob/main/Khang_Luu_Resume_for_140XP_Project.pdf)!
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics and Data Science | Sept 2021 - June 2025
+
+## Experience
+
+Eide Bailly LLP | Tax Intern | Jan 2025 - Present
+
+Jazz Hands for Autism | Data Analyst Intern | Jan 2025 - Present
+
+ASUCLA | Student Government Accounting Admin | May 2024 - Jan 2025
+---
