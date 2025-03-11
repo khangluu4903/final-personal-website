@@ -2,12 +2,12 @@
 title: "Khang Luu's Personal Website"
 ---
 
-Hello! Welcome to my portfolio website.
+![](profile%20pic.jpeg)
 
-I'm currently a senior at UCLA majoring in Statistics and Data Science.
+Hello! Welcome to my portfolio website. My name is Khang!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+-   🔭 I’m currently a senior at UCLA majoring in Statistics and Data Science.
+-   🌱 I’m currently learning about experimental design and analysis, theory of regression analysis, optimization, supervised machine learning, and managerial accounting.
+-   💻 Tech Stack: Python, R, SQL, C++
+-   📫 You can reach me through email (khangluu4903\@ucla.edu)!
+-   View my [Resume](https://github.com/khangluu4903/stats-140xp-website/blob/main/Khang_Luu_Resume_for_140XP_Project.pdf)!
